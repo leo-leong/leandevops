@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Microsoft.Sample.TfsReleaseHelper/bin/Debug
+/Microsoft.Sample.TfsReleaseHelper/obj/Debug
+/Microsoft.Sample.TfsReleaseHelper/packages
+/Microsoft.Sample.TfsReleaseHelper/.vs
